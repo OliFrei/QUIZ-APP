@@ -1,6 +1,6 @@
 const questions = [
     {
-        question: "Which micorphone type has a coil around a magnet to generate voltage?",
+        question: "Which microphone type has a coil around a magnet to generate voltage?",
         answers: [
             {text: "Condenser", correct: false},
             {text: "Dynamic", correct: true},
